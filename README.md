@@ -1,4 +1,4 @@
-# Team_9_MacLearn
+# SDS 384 Team 9, Classification of plant-associated bacteria based on genome features
 *Repo for scripts and documentation for classifier of plant associated and non-plant associated bacteria*
 
 ## Rationale and Goals for this project
